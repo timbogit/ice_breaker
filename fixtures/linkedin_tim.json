@@ -1,0 +1,538 @@
+{
+	"public_identifier": "timschmelmer",
+	"profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/timschmelmer/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230627%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230627T203715Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4eb465dccafc85e596d1472483a8e44599aa1ff0100efd421968e3731e1a8a42",
+	"background_cover_image_url": null,
+	"first_name": "Tim",
+	"last_name": "Schmelmer",
+	"full_name": "Tim Schmelmer",
+	"follower_count": null,
+	"occupation": "Software Architect at Salesforce",
+	"headline": "Software Architect at Salesforce",
+	"summary": "Accomplished, focused, and diligent Senior Software Development Engineer who is passionate about software craftsmanship and system architecture. Scrupulous in the practice of pragmatic and agile development methods. Looking to contribute to and lead teams of smart people working on large-scale, distributed applications and using forward-focused technologies.\nAlso, blog and book author, speaker at regional and international conferences and local user groups, and mentor of junior software developers.\n\nNOTE: Do *not* contact me about positions that would require me to relocate / move away from the Denver, CO area.\n\nSpecialties: - Ruby/RoR, Python, Scala, Clojure, Java, Objective-C, Golang, PHP, Perl/Mason,  C/C++\n- Distributed Systems, Design Patterns\n- Linux, Mac OS X, Windows",
+	"country": "US",
+	"country_full_name": "United States of America",
+	"city": "Broomfield",
+	"state": "Colorado",
+	"experiences": [{
+		"starts_at": {
+			"day": 1,
+			"month": 8,
+			"year": 2022
+		},
+		"ends_at": null,
+		"company": "Salesforce",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/salesforce/",
+		"title": "Software Architect",
+		"description": "Planning, designing, and leading implementation projects for Salesforce's Trailblazers on the Trailhead Engineer team",
+		"location": "Remote",
+		"logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/salesforce/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230627%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230627T203719Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=00f4686353549231e50809097d8151344424b8908c4b94840502585fa807be98"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2018
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 8,
+			"year": 2022
+		},
+		"company": "Salesforce",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/salesforce/",
+		"title": "Principal Member Of Technical Staff",
+		"description": "Developing robust services, APIs and SOA tooling on the Trailhead Engineer team",
+		"location": "Remote",
+		"logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/salesforce/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230627%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230627T203719Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=00f4686353549231e50809097d8151344424b8908c4b94840502585fa807be98"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 12,
+			"year": 2016
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2018
+		},
+		"company": "Uber",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/uber-com/",
+		"title": "Sr. Software Engineer",
+		"description": "Member of the Imagery Processing team in Uber's Advanced Technologies, Engineering group. I am helping to design, and build an end-to-end system to manage, track, analyze, and process the data used to improve the maps from around the world.\n* Processing petabytes of imagery data to prepare them for feature extraction & ML algorithms\n* Distributed computing in Hadoop/HDFS, Spark, and Cassandra environment\n* Designing and implementing polyglot systems in Python, Scala, Java, Node.js and Golang",
+		"location": null,
+		"logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/uber-com/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230627%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230627T203719Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=9b5a6ff9d7c449a0e73fc179e0d4090eabc90d61ea3894e336aaf6823f44982d"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 12,
+			"year": 2015
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 12,
+			"year": 2016
+		},
+		"company": "Software Systems Consulting",
+		"company_linkedin_profile_url": null,
+		"title": "Author and Independent Software Consultant",
+		"description": "* Author of the upcoming \"Microservices From Day One\" book, published by Apress Media. \n* Providing independent software consulting services regarding systems architecture, design, development and operational support.\n* Specialization in helping clients with adopting Microservices as an architectural style\n* Training on \"How To Get Started\" and Best Practices\n* Technical Due Diligence support\n* Sofware Development services (either embedded in an existing engineering team or acting as the early-stage implementor and mentor for newly on-boarded engineers)\n* Consulting as a Senior Team Lead or Principal Engineer",
+		"location": "United States",
+		"logo_url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 2003
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 6,
+			"year": 2006
+		},
+		"company": "Max-Planck-Institute for Astronomy",
+		"company_linkedin_profile_url": null,
+		"title": "Software Engineer",
+		"description": "\uf06e\tDevelopment of a distributed, multi-threaded Telescope Control System (TCS) in international project to build the world\u2019s largest geo-stationary telescope in Arizona / USA.\n\uf06e\tObject-oriented analysis, design, and implementation in C/C++ of 2 subsystems (Instrument Interface, Guiding Control)",
+		"location": null,
+		"logo_url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 10,
+			"year": 2001
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 6,
+			"year": 2006
+		},
+		"company": "IT- and Telecoms Consulting",
+		"company_linkedin_profile_url": null,
+		"title": "Software Architect, Technical Consultant and Project Manager (self-employed)",
+		"description": "\uf06e\tSuccessful planning, management and implementation of software (stand-alone, web-based, and application server based)\n\uf06e\tAll projects handled applied modern OOA/OOD practices using UML and various OO-languages (Java, C++, C#, PHP)",
+		"location": null,
+		"logo_url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2000
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 9,
+			"year": 2001
+		},
+		"company": "d+s online AG",
+		"company_linkedin_profile_url": null,
+		"title": "Project Manager / Technical Consultant",
+		"description": "\uf06e\tResponsibilities both in Professional Services, and in the R&D department, to bridge between both organizations.\n\uf06e\tDevelopment Team Leader, Software Designer (Java Servlet / JSP, Microsoft ASP), Technical Consultant (in Professional Services organization); Deployment Manager and Researcher (in R&D department).",
+		"location": null,
+		"logo_url": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 9,
+			"year": 2011
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2016
+		},
+		"company": "LivingSocial",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/livingsocial/",
+		"title": "Sr. Software Engineer / Lead Developer",
+		"description": "\uf06e\t Member of the Core Services Team, designing, and continually improving, feature capabilities, scalability and performance of LivingSocial's technology platform. Applying a wide range of technologies on a daily basis (Ruby / Rails, Clojure / Datomic, Scala, JavaScript, iOS).",
+		"location": "Boulder, CO / Washington, DC",
+		"logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/livingsocial/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230627%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230627T203719Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=51533e0a6efaf9b77e5ff2773e15776f733c966cbefa9b76f19722d6f3b46b7f"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 9,
+			"year": 2010
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 9,
+			"year": 2011
+		},
+		"company": "RIGHTNOW TECHNOLOGIES",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/rightnow-technologies/",
+		"title": "Sr. Software Engineer - RightNow Social Experience",
+		"description": "\uf06e\t Software Development & Design Social Web Application in an Agile software development team using Scrum\n\uf06e\tResponsibilities in the entire application stack (front- to back-end) with main focus on the design and implementation of a RESTful Web Services on top of LAMP \n\uf06e\tThought-leader when evaluating upcoming technology choices\n\uf06e\tIntroduced Ruby/JRuby based automated testing framework to the team",
+		"location": "(Boulder, CO / Bozeman, MT)",
+		"logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/rightnow-technologies/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230627%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230627T203719Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=4f4510a1c5f0e5a67fea3d57a602f00292e6353fbfd8ed37721e39fc0392f29b"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 8,
+			"year": 2007
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 9,
+			"year": 2010
+		},
+		"company": "Amazon.com",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/amazon/",
+		"title": "Software Development Engineer",
+		"description": "\uf06e\tSoftware Development & Design of the Kindle Development Kit Tools and Services\n\uf06e\tPreviously: Design, Development and Operational Support of a 24/7 Web Platforms for Merchant On-Boarding and Merchant Contact Management\n\uf06e\tHighly available and distributed systems engineering in Java, C/C++, Perl/Mason and Ruby / RoR\n\uf06e\tWinner of Amazon-internal contest (AWS Hack Attack) for AWS-based Rails Application with best Business Potential\n\uf06e\tContribution to Amazon-internal tools for Kindle content development",
+		"location": "Seattle, Washington, United States",
+		"logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/amazon/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230627%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230627T203719Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=0a863a01a1f5107aff320c683ba7a4cd9e2976907d0b56693f50a8dd1eb5074c"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2006
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 8,
+			"year": 2007
+		},
+		"company": "Avaya Inc.",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/avaya/",
+		"title": "Member of Technical Staff",
+		"description": "\uf06e\tDevelopment of Application Server for Computer-Telephony-Integration enablement in Java on Linux & Windows\n\uf06e\tStandards-based web-services, XML packet, and Java API based SDKs for Device, Media, and Call Control services \n\uf06e\tC# and Visual Basic .NET based development work to port SDK to .NET 2.0 Microsoft framework\n\uf06e\tLead architect and developer for IBM Lotus Sametime integration based on Eclipse RCP framework rich Java client",
+		"location": null,
+		"logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/avaya/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20230627%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20230627T203719Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=7ce595dd02d17b0e96f80dc14f132b3c4e4dbe36787a7a9e2561946e084cc6ff"
+	}],
+	"education": [{
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 1995
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 1,
+			"year": 1997
+		},
+		"field_of_study": "Computer Science",
+		"degree_name": "Master of Science",
+		"school": "The University of Kansas",
+		"school_linkedin_profile_url": null,
+		"description": null,
+		"logo_url": "https://media.licdn.com/dms/image/C560BAQElz1V5OAq2Ug/company-logo_400_400/0/1519891010108?e=1694044800&v=beta&t=BiTOYJ8K4KGA_PpXtJKWHuc7gT6RCO_mHaMdlCPoAv8",
+		"grade": null,
+		"activities_and_societies": null
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 1,
+			"year": 1992
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 1,
+			"year": 1995
+		},
+		"field_of_study": "Informatik",
+		"degree_name": "Vordiplom",
+		"school": "University of Stuttgart",
+		"school_linkedin_profile_url": null,
+		"description": null,
+		"logo_url": "https://media.licdn.com/dms/image/C4E0BAQGtWZ9p-TYD0Q/company-logo_400_400/0/1519899312696?e=1694044800&v=beta&t=vVRyyCXdGKjdGrAcxW7C8BTjg1xyl2NeQ7yYg1To7dU",
+		"grade": null,
+		"activities_and_societies": null
+	}],
+	"languages": ["English", "French", "German", "Greek, Ancient (to 1453)", "Italian", "Latin", "Spanish"],
+	"accomplishment_organisations": [],
+	"accomplishment_publications": [{
+		"name": "Microservices From Day One",
+		"publisher": "http://www.apress.com/9781484219362",
+		"published_on": {
+			"day": 1,
+			"month": 1,
+			"year": 2016
+		},
+		"description": null,
+		"url": "http://www.apress.com/9781484219362"
+	}, {
+		"name": "SOA from Day One",
+		"publisher": "LivingSocial Tech Blog",
+		"published_on": {
+			"day": 1,
+			"month": 1,
+			"year": 2014
+		},
+		"description": null,
+		"url": "https://techblog.livingsocial.com/blog/categories/soa/"
+	}],
+	"accomplishment_honors_awards": [],
+	"accomplishment_patents": [],
+	"accomplishment_courses": [],
+	"accomplishment_projects": [{
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2014
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2014
+		},
+		"title": "Speaker / Workshop trainer at AbrilPro Ruby (Brazil) & Rocky Mountain Ruby (Colorado) 2014",
+		"description": "Adopting SOA from Day One:\nIn this workshop, we explained what a Service-Oriented Architecture is, its advantages, and the reasons why developers should think about it when starting an application.",
+		"url": null
+	}],
+	"accomplishment_test_scores": [],
+	"volunteer_work": [{
+		"starts_at": {
+			"day": 1,
+			"month": 7,
+			"year": 2014
+		},
+		"ends_at": null,
+		"title": "Presenter at local meet-up",
+		"cause": "EDUCATION",
+		"company": "Women Who Code",
+		"company_linkedin_profile_url": "https://www.linkedin.com/company/women-who-code/",
+		"description": null,
+		"logo_url": "https://media.licdn.com/dms/image/D560BAQHwA08RZm2MXg/company-logo_400_400/0/1684450931522?e=1694044800&v=beta&t=EDZ1WLadF2q6XeYkj7Q5o9-QjkE7mQX6MaklxUuqgBU"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 9,
+			"year": 2016
+		},
+		"ends_at": null,
+		"title": "Guide for opportunity scholar",
+		"cause": "SCIENCE_AND_TECHNOLOGY",
+		"company": "Rocky Mountain Ruby LLC",
+		"company_linkedin_profile_url": null,
+		"description": "A Rocky Mountain Ruby 2016 Guide helps to bring a new community member into the Ruby community. \nGuides volunteer to partner up with this year's Opportunity Scholars. Opportunity Scholars are people who are new to the Ruby community or language, or may be new to programming altogether, and they're ready to have their first Rocky Mountain Ruby experience. They can tell amazing stories of their path to Rocky Mountain Ruby, and they are going to be wonderful additions to our community. A guide's job is to help us welcome them and make them feel at home!\n\nWhile there is certainly an intangible component of what makes a great Guide, there are also a few things that we're looking for specifically:\n\n* Guides should be comfortable being available as a friendly face for their Scholars throughout the whole conference. \n* Guides should be able to recommend great talks for Scholars to attend after hearing about their interests, current skill levels, and experiences.\n* Guides should be comfortable making introductions between Scholars and established developers, especially ones that might be influential in \u0003 the Scholars' areas of interest.\n* Guides should be able to give feedback on breaking into the Ruby world, especially for Scholars looking for their first Ruby or Rails gig!\n* Guides should be great community ambassadors!",
+		"logo_url": null
+	}],
+	"certifications": [{
+		"starts_at": {
+			"day": 1,
+			"month": 5,
+			"year": 2023
+		},
+		"ends_at": null,
+		"name": "No Code AI and Machine Learning: Building Data Science Solutions",
+		"license_number": null,
+		"display_source": "mygreatlearning.com",
+		"authority": null,
+		"url": "https://eportfolio.mygreatlearning.com/tim-schmelmer"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 5,
+			"year": 2021
+		},
+		"ends_at": null,
+		"name": "Engineering Leadership Certificate",
+		"license_number": null,
+		"display_source": "dropbox.com",
+		"authority": "eCornell",
+		"url": "https://www.dropbox.com/s/fbmngmwnq0erg3p/eCornellCert.pdf?dl=0"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 10,
+			"year": 2019
+		},
+		"ends_at": null,
+		"name": "Service-Based Architecture Professional Certificate",
+		"license_number": null,
+		"display_source": "cmu.edu",
+		"authority": "Software Engineering Institute | Carnegie Mellon University",
+		"url": "http://sei.cmu.edu/education-outreach/credentials"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 8,
+			"year": 2019
+		},
+		"ends_at": null,
+		"name": "Software Architecture Professional Certificate",
+		"license_number": null,
+		"display_source": "cmu.edu",
+		"authority": "Software Engineering Institute | Carnegie Mellon University",
+		"url": "http://sei.cmu.edu/education-outreach/credentials"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 4,
+			"year": 2017
+		},
+		"ends_at": null,
+		"name": "Big Data Analysis with Scala and Spark by \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne on Coursera",
+		"license_number": null,
+		"display_source": "coursera.org",
+		"authority": "Coursera Course Certificates",
+		"url": "https://www.coursera.org/account/accomplishments/certificate/43CT3XKJ2TDK"
+	}, {
+		"starts_at": {
+			"day": 1,
+			"month": 12,
+			"year": 2022
+		},
+		"ends_at": {
+			"day": 1,
+			"month": 12,
+			"year": 2025
+		},
+		"name": "AWS Certified Solutions Architect \u2013 Associate",
+		"license_number": "B32WSTZK5NQEQNCN",
+		"display_source": "credly.com",
+		"authority": "Amazon Web Services (AWS)",
+		"url": "https://www.credly.com/badges/3cbf89d6-037f-4ccf-980a-8e9850401f38/linked_in_profile"
+	}, {
+		"starts_at": null,
+		"ends_at": null,
+		"name": "Preventing Workplace Harassment",
+		"license_number": null,
+		"display_source": "emtrain.com",
+		"authority": "Emtrain",
+		"url": "http://www.emtrain.com"
+	}],
+	"connections": null,
+	"people_also_viewed": [{
+		"link": "https://www.linkedin.com/in/henrychet",
+		"name": "Chet Henry",
+		"summary": "Senior Software Developer - Dev Ops Liaison",
+		"location": "Longmont, CO"
+	}, {
+		"link": "https://www.linkedin.com/in/jameswgibsonjr",
+		"name": "James Gibson",
+		"summary": "Senior Software Engineer at Shutterstock",
+		"location": "Denver, CO"
+	}, {
+		"link": "https://www.linkedin.com/in/neilot",
+		"name": "Neil O'Toole",
+		"summary": "Platform Architect at Accruent",
+		"location": "Boulder, CO"
+	}, {
+		"link": "https://www.linkedin.com/in/andrew-carlson-4646b027",
+		"name": "Andrew Carlson",
+		"summary": "Web Developer",
+		"location": "Denver Metropolitan Area"
+	}, {
+		"link": "https://www.linkedin.com/in/spencer-van-cise-82715551",
+		"name": "Spencer Van Cise",
+		"summary": "Software Engineer at BIT Systems",
+		"location": "Denver Metropolitan Area"
+	}, {
+		"link": "https://cn.linkedin.com/in/luk-lu-04a5117",
+		"name": "Luk Lu",
+		"summary": "Bihot Foundation PTE LTD \u2606 Bihot \u57fa\u91d1\u4f1a - Co-founder",
+		"location": "Shanghai, China"
+	}, {
+		"link": "https://de.linkedin.com/in/julius-graf-871a08191",
+		"name": "Julius Graf",
+		"summary": "Software Programmer at Proctic - The Web and Mobile Experts",
+		"location": "Stuttgart"
+	}, {
+		"link": "https://de.linkedin.com/in/devpark",
+		"name": "Serhan \u00d6zhan",
+		"summary": "CIO, devpark Technologies Ltd.",
+		"location": "Greater Munich Metropolitan Area"
+	}, {
+		"link": "https://www.linkedin.com/in/pmonday",
+		"name": "Paul Monday",
+		"summary": "Sr. Software Engineer (Software Developer V) at Oracle Corporation",
+		"location": "Denver Metropolitan Area"
+	}, {
+		"link": "https://www.linkedin.com/in/fredrik-lien-202a821a2",
+		"name": "Fredrik Lien",
+		"summary": "BLOCKCHAIN/ DIGITAL BUSINESS/ DATA ANALYST",
+		"location": "Atlanta, GA"
+	}, {
+		"link": "https://www.linkedin.com/in/rick-brownrigg-328bb212",
+		"name": "Rick Brownrigg",
+		"summary": "Software Engineer III at National Center for Atmospheric Research",
+		"location": "Boulder, CO"
+	}, {
+		"link": "https://www.linkedin.com/in/christianmbernard",
+		"name": "Christian Bernard",
+		"summary": "Senior Software Engineer at ZOOM+Care",
+		"location": "Fort Collins, CO"
+	}, {
+		"link": "https://www.linkedin.com/in/markmindenhall",
+		"name": "Mark Mindenhall",
+		"summary": "Principal Platform Engineer at Guild Education",
+		"location": "Denver, CO"
+	}, {
+		"link": "https://www.linkedin.com/in/eric-hokanson-3b19139",
+		"name": "Eric Hokanson",
+		"summary": "Software Engineer at Validity Inc.",
+		"location": "Broomfield, CO"
+	}, {
+		"link": "https://www.linkedin.com/in/phylake",
+		"name": "Brandon Cook",
+		"summary": "Senior Platform Engineer at Adobe",
+		"location": "Greater Colorado Springs Area"
+	}, {
+		"link": "https://www.linkedin.com/in/krisvincent",
+		"name": "Kris Vincent",
+		"summary": "Principal Developer at Gannett | USA TODAY NETWORK",
+		"location": "Golden, CO"
+	}, {
+		"link": "https://www.linkedin.com/in/nikolay-kotykhov-4a4183174",
+		"name": "Nikolay Kotykhov",
+		"summary": "Technical Software Support Engineer at Comcast",
+		"location": "Denver Metropolitan Area"
+	}, {
+		"link": "https://www.linkedin.com/in/oleseat",
+		"name": "Lesya Turanscaia",
+		"summary": "Principal Member of Technical Staff at Salesforce",
+		"location": "Mountain View, CA"
+	}, {
+		"link": "https://www.linkedin.com/in/cliffyang",
+		"name": "Qiao Yang",
+		"summary": "Lead member of technical staff",
+		"location": "Greater Seattle Area"
+	}, {
+		"link": "https://www.linkedin.com/in/han-qin-78906b19",
+		"name": "Han Qin",
+		"summary": "Director of Engineer @ Afterpay | ex-Uber/Facebook",
+		"location": "Millbrae, CA"
+	}],
+	"recommendations": [],
+	"activities": [],
+	"similarly_named_profiles": [],
+	"articles": [],
+	"groups": [],
+	"phone_numbers": [],
+	"social_networking_services": [{
+		"service": "github",
+		"canonical_url": "github.com/timbogit",
+		"internal_id": null
+	}, {
+		"service": "twitter",
+		"canonical_url": "twitter.com/twitty_tim",
+		"internal_id": null
+	}, {
+		"service": "gravatar",
+		"canonical_url": "gravatar.com/timschmelmer",
+		"internal_id": null
+	}, {
+		"service": "facebook",
+		"canonical_url": "facebook.com/tim.schmelmer",
+		"internal_id": null
+	}, {
+		"service": "klout",
+		"canonical_url": "klout.com/twitty_tim",
+		"internal_id": null
+	}],
+	"skills": ["Agile Methodologies", "Ruby", "REST", "Software Development", "Ruby on Rails", "Java", "Scrum", "Linux", "Git", "Software Engineering", "Web Applications", "Distributed Systems", "Web Services", "Ant", "Design Patterns", "Scalability", "JUnit", "Eclipse", "CVS", "Objective-C"],
+	"inferred_salary": {
+		"min": null,
+		"max": null
+	},
+	"gender": null,
+	"birth_date": null,
+	"industry": null,
+	"extra": {
+		"github_profile_id": null,
+		"twitter_profile_id": null,
+		"facebook_profile_id": null
+	},
+	"interests": ["also learning swift", "skiing", "south america", "sports", "the usa", "traveling", "trekking", "volleyball"],
+	"personal_emails": ["tim.schmelmer@gmail.com", "timschmelmer@gmail.com"],
+	"personal_numbers": []
+}
