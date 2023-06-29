@@ -1,16 +1,23 @@
 import os
 import requests
 
-def scrape_linkedin_profile(linkedin_profile_url: str):
+
+def scrape_linkedin_profile(linkedin_profile_url: str, fake: bool = False) -> dict:
     """Scrape information from a LinkedIn profile,
     Manually scrape the information from a LinkedIn profile."""
-#    api_endpoint = "https://nubela.co/proxycurl/api/v2/linkedin"
-    api_endpoint = "https://gist.githubusercontent.com/timbogit/9dee5134cc6c543731525e1f54683cef/raw" \
-                   "/2cea675cafb3f0723b77b73f78ec529172a70532/linkedin_tim.json"
-    header_dic = {"Authorization": f'Bearer {os.environ.get("PROXYCURL_API_KEY")}'}
+
+    if fake:
+        api_endpoint = (
+            "https://gist.githubusercontent.com/timbogit/9dee5134cc6c543731525e1f54683cef/raw"
+            "/2cea675cafb3f0723b77b73f78ec529172a70532/linkedin_tim.json"
+        )
+        header_dic = {}
+    else:
+        api_endpoint = "https://nubela.co/proxycurl/api/v2/linkedin"
+        header_dic = {"Authorization": f'Bearer {os.environ.get("PROXYCURL_API_KEY")}'}
 
     response = requests.get(
-        api_endpoint, params={"url": linkedin_profile_url}#, headers=header_dic
+        api_endpoint, params={"url": linkedin_profile_url}, headers=header_dic
     )
 
     data = response.json()

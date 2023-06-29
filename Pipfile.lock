@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "ce707b37ad64f882befea466600efeb4e53354ab780c98bffa1bba1ed87a6f2b"
+            "sha256": "2b09ee347dec49e7e5afea30213278bf6f4620f8d10ffb41268852ed03ed4f04"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -350,6 +350,13 @@
             "markers": "python_version >= '3.7'",
             "version": "==1.3.3"
         },
+        "google-search-results": {
+            "hashes": [
+                "sha256:603a30ecae2af8e600b22635757a6df275dad4b934f975e67878ccd640b78245"
+            ],
+            "index": "pypi",
+            "version": "==2.4.2"
+        },
         "greenlet": {
             "hashes": [
                 "sha256:03a8f4f3430c3b3ff8d10a2a86028c660355ab637cee9333d63d66b56f09d52a",
@@ -426,11 +433,11 @@
         },
         "langchain": {
             "hashes": [
-                "sha256:86ee1f8973a4c48da4e530d582568d152129d51ea63f0af7b5538bb50b7bb15b",
-                "sha256:9ca7be3d50ef291b023aae85090077ff3d30b483677cd870c53d3ea521b2603e"
+                "sha256:1f08a00e622f1c75087d6013f34e82be3f8dd1859266eb583a0fd7bc045090cf",
+                "sha256:842f8212939e5ac4005906d2215574ffb3e34d2fe28f5bc0f46eb3b28fb29c5d"
             ],
             "index": "pypi",
-            "version": "==0.0.217"
+            "version": "==0.0.219"
         },
         "langchainplus-sdk": {
             "hashes": [
@@ -811,11 +818,11 @@
         },
         "typing-extensions": {
             "hashes": [
-                "sha256:88a4153d8505aabbb4e13aacb7c486c2b4a33ca3b3f807914a9b4c844c471c26",
-                "sha256:d91d5919357fe7f681a9f2b5b4cb2a5f1ef0a1e9f59c4d8ff0d3491e05c0ffd5"
+                "sha256:5d8c9dac95c27d20df12fb1d97b9793ab8b2af8a3a525e68c80e21060c161771",
+                "sha256:935ccf31549830cda708b42289d44b6f74084d616a00be651601a4f968e77c82"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==4.6.3"
+            "version": "==4.7.0"
         },
         "typing-inspect": {
             "hashes": [
