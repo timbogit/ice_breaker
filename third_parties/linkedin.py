@@ -9,7 +9,7 @@ def scrape_linkedin_profile(linkedin_profile_url: str, fake: bool = False) -> di
     if fake:
         api_endpoint = (
             "https://gist.githubusercontent.com/timbogit/9dee5134cc6c543731525e1f54683cef/raw"
-            "/2cea675cafb3f0723b77b73f78ec529172a70532/linkedin_tim.json"
+            "/a4dee6337303f082b5ee51978ba1f5fe11704f7c/linkedin_tim.json"
         )
         header_dic = {}
     else:
