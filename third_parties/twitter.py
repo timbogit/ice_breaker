@@ -47,6 +47,7 @@ def scrape_user_tweets(username, num_tweets=5):
             tweet_list.append(tweet_dict)
     return tweet_list
 
+
 ######## The following code should work, but doesn't  b/c of Twitter API charging changes. Error is:
 # tweepy.errors.Forbidden: 403 Forbidden
 # When authenticating requests to the Twitter API v2 endpoints, you must use keys and tokens from a Twitter developer App that is attached to a Project. You can create a project via the developer portal.
